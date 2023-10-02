@@ -1,0 +1,41 @@
+# Team Point Tracker
+
+## Description
+
+The Team Point Tracker is a web-based application developed using HTML, CSS, and JavaScript. It allows teams or groups to keep track of points or scores for various activities or competitions. Whether you're organizing a game night, a sports event, or any team-based activity, this tool helps you maintain a record of each team's performance.
+
+## Features
+
+- **Add Teams/Players:** Easily add team's points to the tracker.
+- **Record Points:** Update the points for each team by pressing the "Add Points" button as the activity progresses.
+- **Total Points:** Teams can track their total points by add the values in the "Total Points Earned" section.
+- **Reset Functionality:** Reset the points to zero by refreshing the page.
+- **Responsive Design:** Works well on both desktop and mobile devices.
+
+## How to Use
+
+1. **Getting Started:**
+   - Open the `index.html` file in a web browser.
+
+2. **Record Points:**
+   - Use the "Add Poins" button to adjust the points for each team as needed.
+   - The points are automatically updated in real-time.
+
+3. **Reset Points:**
+   - To reset the points to zero, simply refresh the page.
+
+4. **Customization:**
+   - You can customize the application further by modifying the CSS or JavaScript files to fit your specific needs.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Acknowledgments
+
+- The project was created as a simple tool for tracking team points in various activities.
+- Feel free to use, modify, or contribute to this project to enhance its functionality.
+
+Enjoy using the Team Point Tracker for your team-based activities and competitions! If you have any feedback or suggestions, please let me know.
